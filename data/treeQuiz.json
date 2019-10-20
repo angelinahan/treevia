@@ -1,0 +1,76 @@
+{
+  "highScore": 0,
+  "timeRecord": 0,
+  "qnas": [
+    {
+      "img": "oak.jpeg",
+      "ans": "oak",
+      "hint": "Acorns grow on this tree",
+      "id": "0",
+      "qText": "What kind of tree are these leaves from?"
+    },
+    {
+      "img": "ginkgo.jpg",
+      "ans": "ginkgo",
+      "hint": "It rhymes with 'pink glow' ",
+      "id": "1",
+      "qText": "What kind of tree are these leaves from?"
+    },
+    {
+      "img": "mapleSeeds.jpeg",
+      "ans": "maple",
+      "hint": "This tree is pretty sweet",
+      "id": "2",
+      "qText": "What kind of tree makes these seeds?"
+    },
+    {
+      "img": "olive.jpeg",
+      "ans": "olive",
+      "hint": "Part of this tree is also used to make food",
+      "id": "3",
+      "qText": "Branches from this tree symbolize peace"
+    },
+    {
+      "img": "redwood.jpeg",
+      "ans": "sequoia",
+      "hint": "These trees have two names, use the one beginning with 's'",
+      "id": "4",
+      "qText": "A national park is named after these giant trees"
+    },
+    {
+      "img": "birchBark.jpg",
+      "ans": "birch",
+      "hint": "This tree grows tall and slender",
+      "id": "5",
+      "qText": "What kind of tree is this bark from?"
+    },
+    {
+      "img": "fig.jpg",
+      "ans": "fig",
+      "hint": "This tree grows purple fruit",
+      "id": "6",
+      "qText": "What kind of tree are these leaves from?"
+    },
+    {
+      "img": "palm.jpeg",
+      "ans": "palm",
+      "hint": "Some species of this tree grow a popular fruit",
+      "id": "7",
+      "qText": "What tropical tree has leaves like this?"
+    },
+    {
+      "img": "willow.jpg",
+      "ans": "willow",
+      "hint": "Some of these trees weep",
+      "id": "8",
+      "qText": "What tree has these long leaves"
+    },
+    {
+      "img": "mangrove.jpg",
+      "ans": "mangrove",
+      "hint": "These trees grow in Australia and Florida",
+      "id": "9",
+      "qText": "This tree's roots grow into water. What kind is it?"
+    }
+  ]
+}
